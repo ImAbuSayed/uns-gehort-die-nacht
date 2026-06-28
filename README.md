@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/uns-gehort-die-nacht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Uns gehört die Nacht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/uns-gehort-die-nacht/) |
+| **Get License** | [Official Music Licensing for Uns gehört die Nacht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/uns-gehort-die-nacht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzes Glas, tiefer Bass, Baby, steig zu mir ein.. yeah..
+> Dein Blick sagt mir alles, wir sind heute allein
+> Vergiss den Rest der Welt, lass den Motor jetzt dreh'n
+> Uns gehört die Nacht, wir lassen alles andre steh'n
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
