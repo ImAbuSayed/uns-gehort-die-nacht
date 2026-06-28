@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/uns-gehort-die-nacht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Uns gehört die Nacht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/uns-gehort-die-nacht/) |
+| **Get License** | [Obtain a Music License for Uns gehört die Nacht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/uns-gehort-die-nacht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ef6cb34b80b754ea709af815d05ac84cbc88f3a572489c29433ee6323494b2eb` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
